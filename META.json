@@ -1,0 +1,61 @@
+{
+  "category": "object-storage",
+  "created_date": "2025-09-15T22:48:57.612701",
+  "default_ports": [
+    80,
+    443,
+    3900
+  ],
+  "dependencies": [],
+  "description": "garage is a free and open-source S3-compatible storage. Garage provides self-hosted S3-compatible distributed object storage",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/object-storage/garage",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/object-storage/garage",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.612723",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "garage",
+  "repository_url": "https://github.com/howtomgr/garage",
+  "spec_version": "2.0",
+  "subcategory": "object-storage",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "object-storage",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "garage Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/object-storage/garage"
+}
